@@ -7,7 +7,8 @@
 **Database**: `library_db`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
-![Library ERD](6wy9i3gr (1).jpg)
+
+![Library_project](https://github.com/priya05698/Project-4/blob/main/6wy9i3gr%20(1).jpg)
 
 ## Objectives
 
